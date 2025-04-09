@@ -1,0 +1,10 @@
+a space 1
+b spac 1
+LOOP in a
+in b
+push a
+push b
+ax add
+store a
+jmp LOOP
+endp

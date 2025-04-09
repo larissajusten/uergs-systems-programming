@@ -1,0 +1,6 @@
+Utilizamos os objetos ofstream para escrever em arquivos
+Note que podemos utlizar os caracteres \n para quebrar linha, como faziamos em cout
+Podemos escrever o valor de variaveis numericas100
+Podemos tambem escrever matrizes!    42     19     99 
+Finalmente, podemos receber dados via cin e escrever estes dados no arquivo!
+A frase que voce digitou durante a execucao do programa: Lindo dia

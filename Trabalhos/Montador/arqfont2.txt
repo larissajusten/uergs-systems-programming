@@ -1,0 +1,12 @@
+a space 1
+a space 1
+b space 1
+LOOP in a 
+in b
+push a
+push b
+ax add
+store a
+out a
+jmp LOOP
+endp
